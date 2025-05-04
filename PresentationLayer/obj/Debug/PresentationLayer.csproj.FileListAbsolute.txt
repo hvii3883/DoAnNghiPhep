@@ -1,0 +1,122 @@
+D:\PresentationLayer\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+D:\PresentationLayer\PresentationLayer\bin\Debug\PresentationLayer.exe
+D:\PresentationLayer\PresentationLayer\bin\Debug\PresentationLayer.pdb
+D:\PresentationLayer\PresentationLayer\bin\Debug\BusinessLayer.dll
+D:\PresentationLayer\PresentationLayer\bin\Debug\DataTransferObject.dll
+D:\PresentationLayer\PresentationLayer\bin\Debug\DataLayer.dll
+D:\PresentationLayer\PresentationLayer\bin\Debug\BusinessLayer.pdb
+D:\PresentationLayer\PresentationLayer\bin\Debug\DataTransferObject.pdb
+D:\PresentationLayer\PresentationLayer\bin\Debug\DataLayer.pdb
+D:\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+D:\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.frmAdmin.resources
+D:\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.folderAdmin.frmAdminDuyet.resources
+D:\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.frmAdmin2.resources
+D:\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.frmEmployee.resources
+D:\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.Login.resources
+D:\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+D:\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+D:\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+D:\PresentationLayer\PresentationLayer\obj\Debug\Presenta.9C561136.Up2Date
+D:\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.exe
+D:\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.pdb
+D:\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.folderEmployee.frmEmployee1.resources
+D:\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.folderEmployee.frmEmployeeDashboard.resources
+D:\DoAn_HTQLNghiPhep\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+D:\DoAn_HTQLNghiPhep\PresentationLayer\bin\Debug\PresentationLayer.exe
+D:\DoAn_HTQLNghiPhep\PresentationLayer\bin\Debug\PresentationLayer.pdb
+D:\DoAn_HTQLNghiPhep\PresentationLayer\bin\Debug\BusinessLayer.dll
+D:\DoAn_HTQLNghiPhep\PresentationLayer\bin\Debug\DataTransferObject.dll
+D:\DoAn_HTQLNghiPhep\PresentationLayer\bin\Debug\DataLayer.dll
+D:\DoAn_HTQLNghiPhep\PresentationLayer\bin\Debug\BusinessLayer.pdb
+D:\DoAn_HTQLNghiPhep\PresentationLayer\bin\Debug\DataTransferObject.pdb
+D:\DoAn_HTQLNghiPhep\PresentationLayer\bin\Debug\DataLayer.pdb
+D:\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+D:\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.frmAdmin.resources
+D:\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.folderAdmin.frmAdminDuyet.resources
+D:\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.frmAdmin2.resources
+D:\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.frmEmployee.resources
+D:\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.folderEmployee.frmEmployee1.resources
+D:\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.folderEmployee.frmEmployeeDashboard.resources
+D:\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.Login.resources
+D:\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+D:\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+D:\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+D:\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\Presenta.9C561136.Up2Date
+D:\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.exe
+D:\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\bin\Debug\BusinessLayer.dll
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\bin\Debug\DataTransferObject.dll
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\bin\Debug\DataLayer.dll
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\bin\Debug\DataTransferObject.pdb
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\bin\Debug\DataLayer.pdb
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.frmAdmin.resources
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.frmAdmin2.resources
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.folderEmployee.frmEmployee1.resources
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.folderEmployee.frmEmployeeDashboard.resources
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.Login.resources
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\Presenta.9C561136.Up2Date
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.folderAdmin.frmAdminDanhSachNV.resources
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.folderAdmin.frmAdminDashBoard.resources
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.frmEmployeeDKy.resources
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\bin\Debug\PresentationLayer.exe
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\bin\Debug\PresentationLayer.pdb
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\bin\Debug\BusinessLayer.dll
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\bin\Debug\DataTransferObject.dll
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\bin\Debug\DataLayer.dll
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\bin\Debug\BusinessLayer.pdb
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\bin\Debug\DataTransferObject.pdb
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\bin\Debug\DataLayer.pdb
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.frmAdmin.resources
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.folderAdmin.frmAdminDanhSachNV.resources
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.folderAdmin.frmAdminDashBoard.resources
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.frmAdmin2.resources
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.frmEmployeeDKy.resources
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.folderEmployee.frmEmployee1.resources
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.folderEmployee.frmEmployeeDashboard.resources
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.Login.resources
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\Presenta.9C561136.Up2Date
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.exe
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.pdb
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.folderAdmin.frmQLLeaveType.resources
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.folderEmployee.frmEmployeeDSNghi.resources
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\bin\Debug\BusinessLayer.dll
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\bin\Debug\DataTransferObject.dll
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\bin\Debug\DataLayer.dll
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\bin\Debug\DataTransferObject.pdb
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\bin\Debug\DataLayer.pdb
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.frmAdmin.resources
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.folderAdmin.frmAdminDanhSachNV.resources
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.folderAdmin.frmAdminDashBoard.resources
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.frmAdmin2.resources
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.folderAdmin.frmQLLeaveType.resources
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.frmEmployeeDKy.resources
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.folderEmployee.frmEmployeeDSNghi.resources
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.Login.resources
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\Presenta.9C561136.Up2Date
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.folderEmployee.frmEmployee_.resources
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\PresentationLayer\obj\Debug\PresentationLayer.folderEmployee.frmEmployeeThongKe.resources

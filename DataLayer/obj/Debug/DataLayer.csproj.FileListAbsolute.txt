@@ -1,0 +1,45 @@
+D:\PresentationLayer\DataLayer\bin\Debug\DataLayer.dll
+D:\PresentationLayer\DataLayer\bin\Debug\DataLayer.pdb
+D:\PresentationLayer\DataLayer\bin\Debug\DataTransferObject.dll
+D:\PresentationLayer\DataLayer\bin\Debug\DataTransferObject.pdb
+D:\PresentationLayer\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+D:\PresentationLayer\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+D:\PresentationLayer\DataLayer\obj\Debug\DataLayer.csproj.Up2Date
+D:\PresentationLayer\DataLayer\obj\Debug\DataLayer.dll
+D:\PresentationLayer\DataLayer\obj\Debug\DataLayer.pdb
+D:\DoAn_HTQLNghiPhep\DataLayer\bin\Debug\DataLayer.dll
+D:\DoAn_HTQLNghiPhep\DataLayer\bin\Debug\DataLayer.pdb
+D:\DoAn_HTQLNghiPhep\DataLayer\bin\Debug\DataTransferObject.dll
+D:\DoAn_HTQLNghiPhep\DataLayer\bin\Debug\DataTransferObject.pdb
+D:\DoAn_HTQLNghiPhep\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+D:\DoAn_HTQLNghiPhep\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+D:\DoAn_HTQLNghiPhep\DataLayer\obj\Debug\DataLayer.csproj.Up2Date
+D:\DoAn_HTQLNghiPhep\DataLayer\obj\Debug\DataLayer.dll
+D:\DoAn_HTQLNghiPhep\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\DataLayer\bin\Debug\DataTransferObject.dll
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\DataLayer\bin\Debug\DataTransferObject.pdb
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\DataLayer\obj\Debug\DataLayer.csproj.Up2Date
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\DataLayer\obj\Debug\DataLayer.pdb
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\DataLayer\bin\Debug\DataLayer.dll
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\DataLayer\bin\Debug\DataLayer.pdb
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\DataLayer\bin\Debug\DataTransferObject.dll
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\DataLayer\bin\Debug\DataTransferObject.pdb
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\DataLayer\obj\Debug\DataLayer.csproj.Up2Date
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\DataLayer\obj\Debug\DataLayer.dll
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\DataLayer\bin\Debug\DataTransferObject.dll
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\DataLayer\bin\Debug\DataTransferObject.pdb
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\DataLayer\obj\Debug\DataLayer.csproj.Up2Date
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\DataLayer\obj\Debug\DataLayer.pdb

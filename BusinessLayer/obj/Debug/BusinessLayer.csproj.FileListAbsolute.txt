@@ -1,0 +1,55 @@
+D:\PresentationLayer\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\PresentationLayer\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\PresentationLayer\BusinessLayer\bin\Debug\DataLayer.dll
+D:\PresentationLayer\BusinessLayer\bin\Debug\DataTransferObject.dll
+D:\PresentationLayer\BusinessLayer\bin\Debug\DataLayer.pdb
+D:\PresentationLayer\BusinessLayer\bin\Debug\DataTransferObject.pdb
+D:\PresentationLayer\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+D:\PresentationLayer\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\PresentationLayer\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+D:\PresentationLayer\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\PresentationLayer\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\DoAn_HTQLNghiPhep\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\DoAn_HTQLNghiPhep\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\DoAn_HTQLNghiPhep\BusinessLayer\bin\Debug\DataLayer.dll
+D:\DoAn_HTQLNghiPhep\BusinessLayer\bin\Debug\DataTransferObject.dll
+D:\DoAn_HTQLNghiPhep\BusinessLayer\bin\Debug\DataLayer.pdb
+D:\DoAn_HTQLNghiPhep\BusinessLayer\bin\Debug\DataTransferObject.pdb
+D:\DoAn_HTQLNghiPhep\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+D:\DoAn_HTQLNghiPhep\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\DoAn_HTQLNghiPhep\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+D:\DoAn_HTQLNghiPhep\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\DoAn_HTQLNghiPhep\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\BusinessLayer\bin\Debug\DataTransferObject.dll
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\BusinessLayer\bin\Debug\DataTransferObject.pdb
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\BusinessLayer\obj\Debug\BusinessLayer.pdb
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\BusinessLayer\bin\Debug\DataLayer.dll
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\BusinessLayer\bin\Debug\DataTransferObject.dll
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\BusinessLayer\bin\Debug\DataLayer.pdb
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\BusinessLayer\bin\Debug\DataTransferObject.pdb
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\BusinessLayer\bin\Debug\DataTransferObject.dll
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\BusinessLayer\bin\Debug\DataTransferObject.pdb
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\BusinessLayer\obj\Debug\BusinessLayer.pdb

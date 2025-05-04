@@ -1,0 +1,30 @@
+D:\PresentationLayer\DataTransferObject\bin\Debug\DataTransferObject.dll
+D:\PresentationLayer\DataTransferObject\bin\Debug\DataTransferObject.pdb
+D:\PresentationLayer\DataTransferObject\obj\Debug\DataTransferObject.csproj.AssemblyReference.cache
+D:\PresentationLayer\DataTransferObject\obj\Debug\DataTransferObject.csproj.CoreCompileInputs.cache
+D:\PresentationLayer\DataTransferObject\obj\Debug\DataTransferObject.dll
+D:\PresentationLayer\DataTransferObject\obj\Debug\DataTransferObject.pdb
+D:\DoAn_HTQLNghiPhep\DataTransferObject\bin\Debug\DataTransferObject.dll
+D:\DoAn_HTQLNghiPhep\DataTransferObject\bin\Debug\DataTransferObject.pdb
+D:\DoAn_HTQLNghiPhep\DataTransferObject\obj\Debug\DataTransferObject.csproj.AssemblyReference.cache
+D:\DoAn_HTQLNghiPhep\DataTransferObject\obj\Debug\DataTransferObject.csproj.CoreCompileInputs.cache
+D:\DoAn_HTQLNghiPhep\DataTransferObject\obj\Debug\DataTransferObject.dll
+D:\DoAn_HTQLNghiPhep\DataTransferObject\obj\Debug\DataTransferObject.pdb
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\DataTransferObject\bin\Debug\DataTransferObject.dll
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\DataTransferObject\bin\Debug\DataTransferObject.pdb
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\DataTransferObject\obj\Debug\DataTransferObject.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\DataTransferObject\obj\Debug\DataTransferObject.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\DataTransferObject\obj\Debug\DataTransferObject.dll
+C:\Users\LENOVO\Downloads\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\DataTransferObject\obj\Debug\DataTransferObject.pdb
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\DataTransferObject\bin\Debug\DataTransferObject.dll
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\DataTransferObject\bin\Debug\DataTransferObject.pdb
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\DataTransferObject\obj\Debug\DataTransferObject.csproj.AssemblyReference.cache
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\DataTransferObject\obj\Debug\DataTransferObject.csproj.CoreCompileInputs.cache
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\DataTransferObject\obj\Debug\DataTransferObject.dll
+E:\DoAn_LMS\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\DataTransferObject\obj\Debug\DataTransferObject.pdb
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\DataTransferObject\bin\Debug\DataTransferObject.dll
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\DataTransferObject\bin\Debug\DataTransferObject.pdb
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\DataTransferObject\obj\Debug\DataTransferObject.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\DataTransferObject\obj\Debug\DataTransferObject.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\DataTransferObject\obj\Debug\DataTransferObject.dll
+C:\Users\LENOVO\Downloads\5-4-11AM\DoAn_HTQLNghiPhep (2)\DoAn_HTQLNghiPhep\DataTransferObject\obj\Debug\DataTransferObject.pdb
